@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>k17</name>
+        <order/>
+        <roles>x_snc_k17.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-07 23:50:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb487b399d4503007f44c6e94653c8b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>k17</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="k17" source="x_snc_k17">8a48fff59d4503007f44c6e94653c8ec</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="k17">8a48fff59d4503007f44c6e94653c8ec</sys_scope>
+        <sys_update_name>sys_ui_application_bb487b399d4503007f44c6e94653c8b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-07 23:50:52</sys_updated_on>
+    </sys_ui_application>
+</record_update>
