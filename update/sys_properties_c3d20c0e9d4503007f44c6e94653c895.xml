@@ -2,29 +2,29 @@
 <record_update table="sys_properties">
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
-        <description>xyz</description>
+        <description/>
         <ignore_cache>false</ignore_cache>
         <is_private>false</is_private>
-        <name>x_snc_k17.logging.verbosity</name>
+        <name>x_snc_k17.logging.destination</name>
         <read_roles/>
-        <suffix>logging.verbosity</suffix>
+        <suffix>logging.destination</suffix>
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-09-08 00:10:49</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>0eac77b99d4503007f44c6e94653c8f1</sys_id>
+        <sys_created_on>2017-09-08 00:37:37</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c3d20c0e9d4503007f44c6e94653c895</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_k17.logging.verbosity</sys_name>
+        <sys_name>x_snc_k17.logging.destination</sys_name>
         <sys_package display_value="k17" source="x_snc_k17">8a48fff59d4503007f44c6e94653c8ec</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="k17">8a48fff59d4503007f44c6e94653c8ec</sys_scope>
-        <sys_update_name>sys_properties_0eac77b99d4503007f44c6e94653c8f1</sys_update_name>
+        <sys_update_name>sys_properties_c3d20c0e9d4503007f44c6e94653c895</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-08 00:10:49</sys_updated_on>
+        <sys_updated_on>2017-09-08 00:37:37</sys_updated_on>
         <type>string</type>
-        <value>info</value>
+        <value>file</value>
         <write_roles/>
     </sys_properties>
-    <sys_translated_text action="delete_multiple" query="documentkey=0eac77b99d4503007f44c6e94653c8f1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=c3d20c0e9d4503007f44c6e94653c895"/>
 </record_update>
